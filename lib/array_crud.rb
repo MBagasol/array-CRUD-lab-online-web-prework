@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  car_makes ["Mazda", "Nissan", "Toyota", "Honda"]
 end
 
 def create_an_array
