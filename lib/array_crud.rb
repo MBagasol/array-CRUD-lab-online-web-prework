@@ -1,5 +1,5 @@
 def create_an_empty_array
-  car_makes []
+  car_makes = Array.new
 end
 
 def create_an_array
